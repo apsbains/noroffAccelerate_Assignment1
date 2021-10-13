@@ -1,0 +1,1 @@
+# noroffAccelerate_Assignment1
